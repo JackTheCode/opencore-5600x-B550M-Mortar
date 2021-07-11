@@ -21,7 +21,7 @@ OpenCore bootloader config files for my PC coding/gaming hackintosh.
 <https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html>
 <https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html>
 
-PS: If you're using same specs above just copy EFI folder to your EFI partition
+PS: If you're using same specs as above just copy EFI folder to your EFI partition
 
 ### SMBIOS
 
